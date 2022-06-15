@@ -7,10 +7,11 @@
 - ⚡ Fun fact: I love to play electric guitar.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=meyvelikahve)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meyvelikahve)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
-[<img align="left" alt="Recep Sevim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/recep-sevim-77b19a161/]
+[<img align="left" alt="Recep Sevim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][www.linkedin.com/in/meyvelikahve]
 
 <br />
 
