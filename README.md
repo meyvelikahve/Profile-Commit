@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to play electric guitar.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=meyvelikahve)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=meyvelikahve)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meyvelikahve)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
