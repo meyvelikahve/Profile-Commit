@@ -1,32 +1,37 @@
-### Hi there, I'm Recep 👋
+<h1 align="center">Hi 👋, I'm Recep</h1>
+<h3 align="center">A passionate mobile developer from Turkey</h3>
 
-## I'm a computer engineering student
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meyvelikahve&label=Profile%20views&color=0e75b6&style=flat" alt="meyvelikahve" /> </p>
 
-- 🌱 I’m currently learning Flutter, Java, JavaScript and React 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to play electric guitar.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meyvelikahve" alt="meyvelikahve" /></a> </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meyvelikahve)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning **swiftUI and Flutter**
 
-### Connect with me:
+- 📝 I regularly write articles on [https://medium.com/@meyvelikahve](https://medium.com/@meyvelikahve)
 
-[<img align="left" alt="Recep Sevim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][www.linkedin.com/in/meyvelikahve]
+- 💬 Ask me about **swift, UIKit, swiftUI, Flutter, Dart,**
 
-<br />
+- 📫 How to reach me **recep_sevim20@hotmail.com**
 
-### Languages and Tools:
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KaJombw8I8n7k5x0oFzRU5tcHxQ0ejOU/view?usp=sharing](https://drive.google.com/file/d/1KaJombw8I8n7k5x0oFzRU5tcHxQ0ejOU/view?usp=sharing)
 
-[<img align="left" alt="Dart" width="26px" src="https://www.muratoner.net/wp-content/uploads/2019/01/flutterlogo.png" />]
-[<img align="left" alt="Dart" width="26px" src="https://mertcandinler.com/wp-content/uploads/2020/04/dart_logo.png" />]
-[<img align="left" alt="Java" width="26px" src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-<br />
-<br />
+- ⚡ Fun fact **Average electric guitar player**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/meyvelikahve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meyvelikahve" height="30" width="40" /></a>
+<a href="https://medium.com/@meyvelikahve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@meyvelikahve" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meyvelikahve&show_icons=true&locale=en&layout=compact" alt="meyvelikahve" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meyvelikahve&show_icons=true&locale=en" alt="meyvelikahve" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meyvelikahve&" alt="meyvelikahve" /></p>
